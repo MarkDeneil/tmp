@@ -6,4 +6,5 @@ modify from daily 3
 modify from daily 4
 modify from daily 5
 modify from daily 6
-test git pull
+test git pull  
+test git fetch
